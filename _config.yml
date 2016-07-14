@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-GB"
 title                    : "Studentenkantorei Heidelberg /dev"
 title_separator          : "-"
 name                     : "Jasper Grimm  "
-description              : "Studentenkantorei Heidelberg /dev"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "Homepage der Studentenkantorei Heidelberg"
+url                      : #"http://www.studentenkantorei.de"
+baseurl                  : #
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -68,7 +68,7 @@ author:
   bio              : 
   location         : "Heidelberg, Germany"
   email            : "dev@jaspergrimm.com"
-  uri              :
+  uri              : "http://jaspergrimm.com"
   bitbucket        :
   codepen          :
   dribbble         :
