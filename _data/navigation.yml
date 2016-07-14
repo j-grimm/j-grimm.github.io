@@ -5,7 +5,25 @@ main:
 
   - title: "About"
     url: /about
+    children:
+      - title "Der Chor"
+        url: /about/chor
 
+      - title "Der Chorleiter"
+        url: /about/chorleiter
+
+      - title "Aktuelles"
+        url: /about/aktuelles
+    
+      - title "Archiv"
+        url: /about/archiv
+  
+      - title "Konzertreisen"
+        url: /about/reisen
+
+      - title "neue Mitsänger"
+        url: /about/join
+  
   - title: "Konzerte"
     url: /konzerte
 
@@ -23,3 +41,25 @@ main:
 
   - title: "Internes"
     url: /intern
+
+# links for individual pages:
+about_links:
+  - title "Der Chor"
+    url: /about/chor
+
+  - title "Der Chorleiter"
+    url: /about/chorleiter
+
+  - title "Aktuelles"
+    url: /about/aktuelles
+    
+  - title "Archiv"
+    url: /about/archiv
+  
+  - title "Konzertreisen"
+    url: /about/reisen
+
+  - title "neue Mitsänger"
+    url: /about/join
+    
+  
