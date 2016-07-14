@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Studentenkantorei Heidelberg /dev"
+title                    : "Studentenkantorei Heidelberg"
 title_separator          : "-"
-name                     : "Jasper Grimm  "
+name                     : "Jasper Grimm"
 description              : "Homepage der Studentenkantorei Heidelberg"
 url                      : #"http://www.studentenkantorei.de"
 baseurl                  : #
